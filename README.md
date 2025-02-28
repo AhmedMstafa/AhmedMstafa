@@ -32,7 +32,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![C++](https://img.shields.io/badge/c%2B%2B-blue)&nbsp;
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedMstafa&&show_icons=true&locale=en&layout=compact&theme=radical)
